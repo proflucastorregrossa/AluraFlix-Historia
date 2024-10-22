@@ -4,8 +4,11 @@ body{
 }
 section{
     background-color:rgb(109, 1, 109);
-    padding-top: 150px;
+    padding-top: 80px;
     padding-bottom: 80px;
     display: flex;
     justify-content: center;
+}
+div{
+    margin-right: 20px;
 }
