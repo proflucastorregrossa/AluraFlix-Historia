@@ -12,3 +12,14 @@ section{
 . chamada-texto{
     margin-right: 30%;
 }
+
+img{
+    height: 200px;
+}
+
+.categoria-videos{
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
